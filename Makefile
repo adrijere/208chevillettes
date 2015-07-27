@@ -5,7 +5,7 @@
 ## Login   <mathon_j@epitech.net>
 ## 
 ## Started on  Thu May 28 15:44:41 2015 Jérémy MATHON
-## Last update Fri May 29 18:19:55 2015 Jérémy MATHON
+## Last update Fri Jun 12 13:58:23 2015 Jérémy MATHON
 ##
 
 NAME			=	208chevillettes
@@ -19,7 +19,7 @@ OBJ			=	$(SRC:.cpp=.o)
 
 RM			=	rm -rf
 
-CXX			=	clang++
+CXX			=	g++
 
 CXXFLAGS		=	-W -Wall -Wextra -g
 
